@@ -1,5 +1,4 @@
-Seattle W0 Git for Everyone
----------------------------
+# Git Pre work for SEA-B24 Full Stack JavaScript Development Accelerator
 
 Demonstrate the following skills:
 
